@@ -1,0 +1,8 @@
+# Tam firmware imaji ve turevleri: makineye ozel veri icerebilir.
+image/
+src/monster_bios_blob.c
+bin/
+
+# Derleme artefaktlari
+*.o
+__pycache__/

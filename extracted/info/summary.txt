@@ -1,0 +1,40 @@
+Flash descriptor bolgeleri:
+  Descriptor 0x00000000-0x00000FFF  boyut 0x1000
+  BIOS       0x01000000-0x01FFFFFF  boyut 0x1000000
+  ME         0x00001000-0x004B6FFF  boyut 0x4B6000
+
+Toplam dugum: 2630
+  region: 3
+  fv: 23
+  file: 616
+  section: 1987
+
+ME bolgesi:
+  boyut 0x4B6000
+
+Cikarilan icerik:
+  ACPI tablo/ASL : 25 / 25
+  Microcode     : 3 blok
+  Modul         : 450 PE32/TE/PIC
+  Gorsel        : 106 (logo/ikon/font vb.)
+  String        : 27113 benzersiz satir (filtreli)
+
+ACPI .dsl dosyalari iasl ile uretildi.
+Hassas veriler icin info/excluded.txt dosyasina bakin.
+
+Decompilasyon:
+  Modul         : 450 -> 46829 fonksiyon
+  Basarisiz     : 120 fonksiyon (cogu SiInitPreMemFsp)
+  Cikti         : src/decompiled/ (450 .c + index.csv)
+
+C'ye gomulu kaynaklar:
+  ACPI ham      : src/embedded/acpi_data.c
+  Microcode     : src/embedded/microcode_data.c
+  Gorseller     : src/embedded/images_data.c
+  Modul metadata: src/embedded/modules_meta.c
+
+Guvenlik:
+  Ham firmware (image/ ve src/monster_bios_blob.c) makineye ozel
+  seri no, DMI/UUID, Windows urun anahtari veya NVRAM icerebilir.
+  Bu dosyalari paylasmayin; .gitignore ile haric tutuldu.
+  Metin ciktilarinda urun anahtari/MAC/private key bulunmuyor.

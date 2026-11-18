@@ -1,0 +1,26 @@
+signature,oem_id,oem_table_id,length,source,file,asl_file
+SSDT,AmdBrD,AmdBrgDT,4438,dec19,SSDT_00.dat,SSDT_00.dsl
+SSDT,AmdRef,AmdTabl,4281,dec19,SSDT_01.dat,SSDT_01.dsl
+SSDT,OptRef,OptTabl,257,dec19,SSDT_02.dat,SSDT_02.dsl
+SSDT,OptRf1,Opt1Tabl,281,dec19,SSDT_03.dat,SSDT_03.dsl
+SSDT,OptRf2,Opt2Tabl,12177,dec19,SSDT_04.dat,SSDT_04.dsl
+SSDT,OemNv1,OemNv1T,11836,dec19,SSDT_05.dat,SSDT_05.dsl
+SSDT,OemNv2,OemNv2T,12374,dec19,SSDT_06.dat,SSDT_06.dsl
+SSDT,OemAti,OemAti,1537,dec19,SSDT_07.dat,SSDT_07.dsl
+SSDT,OemAti,DscAtiBD,4438,dec19,SSDT_08.dat,SSDT_08.dsl
+SSDT,CpuRef,CpuSsdt,23860,dec19,SSDT_09.dat,SSDT_09.dsl
+SSDT,SocGpe,SocGpe,15082,dec19,SSDT_10.dat,SSDT_10.dsl
+SSDT,SocCmn,SocCmn,14810,dec19,SSDT_11.dat,SSDT_11.dsl
+SSDT,INTEL,IgfxSsdt,13289,dec19,SSDT_12.dat,SSDT_12.dsl
+SSDT,AmdRef,AmdPch,2538,dec19,SSDT_13.dat,SSDT_13.dsl
+SSDT,AmdRef,AmdSsdt,1639,dec19,SSDT_14.dat,SSDT_14.dsl
+SSDT,AmdRef,AmdPeg,3522,dec19,SSDT_15.dat,SSDT_15.dsl
+SSDT,INTEL,IpuSsdt,336,dec19,SSDT_16.dat,SSDT_16.dsl
+SSDT,INTEL,TcssSsdt,54407,dec19,SSDT_17.dat,SSDT_17.dsl
+SSDT,SaSsdt,SaSsdt,10549,dec19,SSDT_18.dat,SSDT_18.dsl
+SSDT,TrmRef,PtidDevc,10883,dec19,SSDT_19.dat,SSDT_19.dsl
+SSDT,INTEL,DTbtSsdt,11024,dec19,SSDT_20.dat,SSDT_20.dsl
+SSDT,Intel_,UsbCTabl,5365,dec19,SSDT_21.dat,SSDT_21.dsl
+SSDT,PmaxDv,Pmax_Dev,908,dec19,SSDT_22.dat,SSDT_22.dsl
+SSDT,TherRv,Ther_Rvp,7817,dec19,SSDT_23.dat,SSDT_23.dsl
+DSDT,ALASKA,A M I,622790,dec19,DSDT_24.dat,DSDT_24.dsl

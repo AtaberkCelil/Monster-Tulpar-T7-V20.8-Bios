@@ -1,0 +1,301 @@
+"Copyright (c) 1997 Microsoft Corp.1
+"Degraded" volume and disk available for rebuilding detected. Selecting
+"Microsoft Corporation UEFI CA 2011
+"Microsoft Corporation UEFI CA 20110
+%*sVersion: %ld (0x%lX)
+%UNIWILL Tech UEFI Secure Boot 2019 PK0
+&UNIWILL Tech UEFI Secure Boot 2019 KEK0
+'Microsoft Windows UEFI Driver Publisher0
+(AsciiStrnLenS (Format, (_gPcd_FixedAtBuild_PcdMaximumAsciiStringLength) + 1) <= (_gPcd_FixedAtBuild_PcdMaximumAsciiStringLength))
+(BufferSize <= (_gPcd_FixedAtBuild_PcdMaximumAsciiStringLength))
+(BufferSize <= (_gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength))
+(C)1985-2014,American Megatrends, Inc.All Rights Reserved.
+(C)2010 American Megatrends, Inc.
+(DestMax <= (_gPcd_FixedAtBuild_PcdMaximumAsciiStringLength))
+(DestMax <= (_gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength))
+(Length <= (_gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength))
+(StrnLenS ((CHAR16 *)Format, (_gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength) + 1) <= (_gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength))
+(version %d; %d bytes)
+-Intel(R) AlderLake P Chipset - Consumer - SPI
+.h,Microsoft Corporation UEFI CA 2011
+/home/asix/src/edk2/Build/Asix/RELEASE_GCC5/X64/Drivers/ASIX/Bus/Usb/UsbNetworking/Ax88179a_v3.0.0/Ax88179/DEBUG/Ax88179.dll
+/home/asix/src/edk2/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib.c
+/home/asix/src/edk2/MdePkg/Library/UefiDevicePathLib/DevicePathUtilities.c
+/home/asix/src/edk2/MdePkg/Library/UefiLib/UefiDriverModel.c
+/home/asix/src/edk2/MdePkg/Library/UefiMemoryAllocationLib/MemoryAllocationLib.c
+/home/asix/src/edk2/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib.c
+00IBM VGA Compatible BIOS.
+0123456789ABCDEFBIOS Guard
+0123456789ABCDEFd:\uefi\edk2\MdePkg\Library\UefiMemoryAllocationLib\MemoryAllocationLib.c
+1001Intel(R) Mobile/Desktop PCI Accelerated SVGA BIOS
+1003Intel(R) ICL Mobile/Desktop PCI Accelerated SVGA BIOS
+12/24/18(C)2010 American Megatrends, Inc. All Rights Reserved
+156273468739Genuine NVIDIA Certified Optimus Ready Motherboard - Copyright 2011 NVIDIA Corporation All Rights Reserved-103756385652(R)
+2008 The Monotype Corporation. All Rights Reserved.Arial is a trademark of The Monotype Corporation in the United States and/or other countries.Monotype:Arial Regular:Version 5.06 (Microsoft)ArialMTMonotype Type Drawing Office - Robin Nicholas, Patricia Saunders 1982You may use this font to display and print content as permitted by the license terms for the product in which this font is included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.
+274591253687Genuine NVIDIA Certified Optimus Ready Motherboard for cookie for ul50 usin - ^W<J=A$L:K82&QH5L>+3R+T5*R):[LJ>6H"HAPG9Z9^>DST< - Copyright 2009 NVIDIA Corporation All Rights Reserved-274591253687(R)[
+7INTEL TcssSsdt
+AMIBIOS 080010
+AMIBIOS(C)2010 American Megatrends, Inc.
+Assertion failed: s->d1->w_msg_hdr.msg_len + ((s->version == DTLS1_BAD_VER) ? 3 : DTLS1_CCS_HEADER_LENGTH) == (unsigned int)s->init_num
+BIOS Date: 01/11/2024 13:55:26 Ver: N.1.13 MON07
+BIOS Date: 12/24/18 09:42:34 Ver: 08.00.10
+BIOS POST Completion Notification
+BIOS_DATA_BLOCK
+BIOS_MBX_DEC_HPD_COUNT
+BiosGuardModuleExecute
+BiosGuardProtocolExecute
+Build Number: 1000 PC 14.34  27/03/2015 10:16:59
+Build Number: 1003 PC 14.34  11/15/2018  02:15:39
+Copyright (C) 1997-2013, Intel Corporation
+Copyright (C) 2000-2011 Intel Corp. All Rights Reserved.
+Copyright (C) 2000-2015 Intel Corp. All Rights Reserved.
+Copyright (C) Intel Corporation.  All rights reserved.
+Count < _gPcd_FixedAtBuild_PcdMaximumLinkedListLength
+Current BIOS version: %d.%02d    Update BIOS version: %d.%02d
+D$ UEFIL
+DMA0 ITBT FW Version BIT30 -
+DMA1 ITBT FW Version BIT30 -
+Data structure version:   %d.%d
+EC FW Version
+EFI_INCOMPATIBLE_VERSION
+Embedded UEFI Driver
+Error In Getting BIOS Chassis Intrusion Feature Status:%r
+Error In Getting BIOS chassis Intrusion Detection State:%r
+Error: Cannot find BIOS information!!
+Error: Cannot update BIOS with different platform name!!
+Error: Cannot update BIOS with different platform sku!!
+FSP Binary Version
+Failed to allocate extended memory for rebuilding metadata!
+Fhttps://tsci.intel.com/con
+Fhttps://tsci.intel.com/content/OnDieCA/crls/ODCA_CA2_CSME_Indirect.crl
+Fhttps://tsci.intel.com/content/OnDieC}
+Font data copyright Punchcut 2009Amble is a trademark of Punchcut.Amble-RegularPunchcut:Amble:2009Amble RegularVersion 1.00000; 2009Punchcut.comChristian Robertson
+GOP Version
+HIntel_UsbCTabl
+Hardware Version 0.0
+I'M Intelligent Memory Ltd
+ICC Overclocking Version
+INTEL DTbtSsdt
+INTEL EDK2
+INTEL IgfxSsdt
+INTEL IpuSsdt
+IO Manageability Engine FW Version
+IOM_BIOS_MBX_GET_HPD_COUNT
+IfwiBuildVersion
+IfwiRoot/BiosRegion
+Ikegami Tsushinki Co Ltd
+Incompatible Version
+Init. Rebuild Failed CfgStatus = Unknown Status(%d)
+Initializing Intel(R) Boot Agent CL v0.1.14
+Intel CVF Device
+Intel Corp.
+Intel Corporation
+Intel Corporation1
+Intel IMSM NV Cache Cfg. Sig.
+Intel Optane
+Intel Raid ISM Cfg Sig.
+Intel SPI OED Device
+Intel UsbGpio Device
+Intel UsbI2C Device
+Intel UsbSPI Device
+Intel(R)
+Intel(R) Atom(TM)
+Intel(R) Celeron(R)
+Intel(R) Core(TM) M
+Intel(R) Core(TM) i3
+Intel(R) Core(TM) i5
+Intel(R) Core(TM) i7
+Intel(R) Core(TM) i9
+Intel(R) Core(TM) m3
+Intel(R) Core(TM) m5
+Intel(R) Core(TM) m7
+Intel(R) Corporation
+Intel(R) ICL Mobile/Desktop Graphics Controller
+Intel(R) Pentium(R)
+Intel(R) RAID for SATA - v17.3.0.4067
+Intel(R) RST VMD for PEIM
+Intel(R) Rapid Storage Technology - Option ROM - 17.3.0.4067
+Intel(R) Smart Sound Technology Audio Codec
+Intel(R) Trusted Device Setup Extension Version 01.00.01.0010
+Intel(R) UFS Controller 0
+Intel(R) UFS Controller 1
+Intel(R) Xeon(R)
+Intel/Numonyx 25F160/320
+IntelCIT
+IntelCIT.met|
+IntelCSMEAmtConfig
+IntelCSxEEvent01
+IntelCSxEInfoEvent
+IntelDropShipDisk
+IntelDropShipSeal
+IntelGraphicsMem
+IntelRec
+IntelRec.met4
+Intelimem
+Intelligence Silicon Technology
+Intellitech Corporation
+Internal Error - PnP and PCI compliant BIOS not Present
+Lan Phy Version
+Length < _gPcd_FixedAtBuild_PcdMaximumAsciiStringLength
+Length < _gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+Length <= _gPcd_FixedAtBuild_PcdMaximumAsciiStringLength
+ME Firmware Version
+ME-BIOS: DID Entry.
+ME-BIOS: DID Exit - Error by fail to send DID message.
+ME-BIOS: DID Exit - Success.
+ME-BIOS: EOP Entry.
+ME-BIOS: EOP Exit - Error by sending EOP message. Forcing HECI interface closure.
+ME-BIOS: EOP Exit - Success.
+ME-BIOS: MBP Entry.
+ME-BIOS: MBP Exit - Success.
+MEBx version
+Malgun Gothic RegularVersion 6.50MalgunGothic
+Measured UEFI Firmware Volume
+Network Intelligence
+No ciphers enabled for max supported SSL/TLS version
+Not Genuine Intel CPU
+OPROM - VBIOS
+Override Smbios Type 11 Index 16 configuration.
+P1Intel Raid ISM Cfg Sig.
+PCH Hsio Version
+PHY Build Version
+PXE 2.1 Build 092 (WfM 2.0)
+PXE-E07: PCI BIOS calls not supported.
+PXE-E20: BIOS extended memory copy error.
+PXE-E20: BIOS extended memory copy error.  AH ==
+PXE-M0D: Intel Boot Agent is not supported on this processor.
+PXE-M0F: Exiting Intel Boot Agent.
+Platform Version
+RST PreOS Version
+Ramonster Technology Co Ltd
+Royal Park Version
+SA - PCIe Version
+SM/DMI BIOS functions needed.
+Select the port of the destination disk for rebuilding (ESC to exit):
+Sensor Firmware Version
+Server Error: 505 HTTP Version Not Supported
+Suite B: certificate version invalid
+System Agent Manageability Engine FW Version
+TCSS PD0 Version
+TCSS PD1 Version
+TG0F-IFVR: iTBT FW Version BIT30 is not Set. Exit iTBT RP AND DMA Group0 RTD3
+TG1F-IFVR: iTBT FW Version BIT30 is not Set. Exit iTBT RP AND DMA Group1 RTD3
+TUXEDO Stellaris Intel Gen5
+TXT ACM version
+Thunderbolt(TM) FW Version
+UEFI Crypto Library default seed (%ld)
+UEFI:CD/DVD Drive
+UEFI:Network Device
+UEFI:Removable Device
+UNDI Version
+UNIWILL Tech BIOS 2019 Root CA
+UNIWILL Tech BIOS 2019 Root CA0
+UefiHttpBoot/1.0
+Unsupported tool version.
+Use BIOS Setup Boot Order
+Version %x.%02x.%04x. Copyright (C) %04x AMI
+Volumes with "Rebuild" status will be rebuilt within the operating system.
+X-UEFI-AMI
+a disk initiates a rebuild. Rebuild completes in the operating system.
+applet.version
+bios2ish
+buildingName
+c:\tcwork\a62c38facd75f450\edk2_2017\AppPkg\Applications\IntelDropShipApp\Sources\Intel_TDS_Extension.c
+c:\udk\edk2-edk2-stable201905\MdeModulePkg\Library\UefiHiiLib\HiiLanguage.c
+c:\udk\edk2-edk2-stable201905\MdeModulePkg\Library\UefiHiiLib\HiiLib.c
+c:\udk\edk2-edk2-stable201905\MdeModulePkg\Library\UefiHiiLib\HiiString.c
+c:\udk\edk2-edk2-stable201905\MdeModulePkg\Library\UefiHiiServicesLib\UefiHiiServicesLib.c
+c:\udk\edk2-edk2-stable201905\MdePkg\Library\UefiBootServicesTableLib\UefiBootServicesTableLib.c
+c:\udk\edk2-edk2-stable201905\MdePkg\Library\UefiDevicePathLib\DevicePathUtilities.c
+c:\udk\edk2-edk2-stable201905\MdePkg\Library\UefiLib\Console.c
+c:\udk\edk2-edk2-stable201905\MdePkg\Library\UefiLib\UefiLib.c
+c:\udk\edk2-edk2-stable201905\MdePkg\Library\UefiMemoryAllocationLib\MemoryAllocationLib.c
+c:\udk\edk2-edk2-stable201905\MdePkg\Library\UefiRuntimeServicesTableLib\UefiRuntimeServicesTableLib.c
+d:\sourcecode\esa\AmiTsePkg\SkiaPkg\ViewSystemLib\BaseViewSystem\uefieventhandler.cpp
+d:\sourcecode\esa\AmiTsePkg\SkiaPkg\ViewSystemLib\BaseViewSystem\uefigopdriver.cpp
+d:\uefi\edk2\MdeModulePkg\Library\UefiHiiServicesLib\UefiHiiServicesLib.c
+d:\uefi\edk2\MdePkg\Library\BaseLib\DivU64x32Remainder.c
+d:\uefi\edk2\MdePkg\Library\BaseLib\SafeString.c
+d:\uefi\edk2\MdePkg\Library\BaseLib\String.c
+d:\uefi\edk2\MdePkg\Library\BaseLib\Unaligned.c
+d:\uefi\edk2\MdePkg\Library\BaseMemoryLib\CompareMemWrapper.c
+d:\uefi\edk2\MdePkg\Library\BaseMemoryLib\CopyMemWrapper.c
+d:\uefi\edk2\MdePkg\Library\BaseMemoryLib\SetMem16Wrapper.c
+d:\uefi\edk2\MdePkg\Library\BaseMemoryLib\SetMemWrapper.c
+d:\uefi\edk2\MdePkg\Library\BaseMemoryLib\ZeroMemWrapper.c
+d:\uefi\edk2\MdePkg\Library\BasePrintLib\PrintLib.c
+d:\uefi\edk2\MdePkg\Library\BasePrintLib\PrintLibInternal.c
+d:\uefi\edk2\MdePkg\Library\UefiBootServicesTableLib\UefiBootServicesTableLib.c
+d:\uefi\edk2\MdePkg\Library\UefiDebugLibStdErr\DebugLib.c
+d:\uefi\edk2\MdePkg\Library\UefiDevicePathLib\DevicePathUtilities.c
+d:\uefi\edk2\MdePkg\Library\UefiDriverEntryPoint\DriverEntryPoint.c
+d:\uefi\edk2\MdePkg\Library\UefiLib\Console.c
+d:\uefi\edk2\MdePkg\Library\UefiLib\UefiDriverModel.c
+d:\uefi\edk2\MdePkg\Library\UefiLib\UefiLibPrint.c
+d:\uefi\edk2\MdePkg\Library\UefiMemoryAllocationLib\MemoryAllocationLib.c
+d:\uefi\edk2\MdePkg\Library\UefiRuntimeServicesTableLib\UefiRuntimeServicesTableLib.c
+d:\uefi\edk2\OptionRomPkg\SRC\RtUefiEDK2\ComponentName.c
+d:\uefi\edk2\OptionRomPkg\SRC\RtUefiEDK2\DashSetting.c
+d:\uefi\edk2\OptionRomPkg\SRC\RtUefiEDK2\Diagnostic.c
+d:\uefi\edk2\OptionRomPkg\SRC\RtUefiEDK2\Init.c
+d:\uefi\edk2\OptionRomPkg\SRC\RtUefiEDK2\RTKConfigImpl.c
+d:\uefi\edk2\OptionRomPkg\SRC\RtUefiEDK2\RtkString.c
+d:\uefi\edk2\OptionRomPkg\SRC\RtUefiUsbEDK2\ComponentName.c
+d:\uefi\edk2\OptionRomPkg\SRC\RtUefiUsbEDK2\Diagnostic.c
+d:\uefi\edk2\OptionRomPkg\SRC\RtUefiUsbEDK2\Init.c
+documentVersion
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\crypto\ec\ec_pmeth.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\crypto\kdf\tls1_prf.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\crypto\threads_none.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\crypto\x509\x509_vfy.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\packet.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\record\rec_layer_d1.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\record\ssl3_record.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\record\ssl3_record_tls13.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\s3_cbc.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\s3_lib.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\ssl_ciph.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\ssl_lib.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\ssl_sess.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\statem\extensions.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\statem\extensions_clnt.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\statem\extensions_cust.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\statem\extensions_srvr.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\statem\statem.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\statem\statem_clnt.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\statem\statem_dtls.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\statem\statem_lib.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\statem\statem_srvr.c
+e:\bios\rpl\rpl_master_20230329\rpl\CryptoPkg\Library\OpensslLib\openssl\ssl\tls13_enc.c
+e:\bios\rpl\rpl_master_20230329\rpl\StdLib\LibC\Locale\multibyte_Utf8.c
+e:\bios\rpl\rpl_master_20230329\rpl\StdLib\LibC\StdLib\Malloc.c
+hIntel(R) ICL Mobile/Desktop Graphics Chipset Accelerated VGA BIOS
+intel-autonomous-clock-stop
+intel-cec-pson-switching-enabled-in-s0
+intel-endpoint-config
+intel-endpoint-descriptor-0
+intel-endpoint-descriptor-1
+intel-endpoint-direction
+intel-endpoint-formats
+intel-endpoint-group-id
+intel-endpoint-group-mask
+intel-endpoint-group-position
+intel-endpoint-pin-descr
+intel-endpoint-type
+intel-endpoints-num
+intel-quirk-mask
+intel-sdw-doais
+intel-sdw-dods
+intel-sdw-ip-clock
+interpreter-version
+nhlt-version
+security.version
+ssl_version
+tsci.intel.com/content/OnDieCA/crls/ODCA_CA2_CSME_Indirect.crl
+uCode Version
+unsupported zlib version
+www.intel,
+www.intel.com
+www.intel.com0
+x-UEFI-AMI
+z#Failed to allocate extended memory for rebuilding metadata!

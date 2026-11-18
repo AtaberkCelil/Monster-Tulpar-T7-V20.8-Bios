@@ -1,0 +1,11 @@
+Bu cikti kasitli olarak su kisisel/hassas verileri ICERMEZ:
+  - Seri numaralari, servis/asset etiketleri, sistem UUID'leri
+  - MAC adresleri (GbE/ME ve SMBIOS kaynakli)
+  - Windows urun anahtari (MSDM/OA2/OA3/SLIC tablolari)
+  - BIOS/setup sifreleri ve hash'leri
+  - Secure Boot ozel anahtarlari / sertifika depolari
+  - NVRAM degisken degerleri (yalnizca degisken adlari bile disarida birakildi)
+  - ME/CSME ic yapisi (seri/MAC/konfigurasyon icerebilir)
+String dosyalari; serial, UUID, MAC, urun anahtari ve sifre kaliplari
+icin filtrelenmistir. ACPI tablolari ve modul kodlari genel platform
+verisidir; kisisel kimlik bilgisi beklenmez.

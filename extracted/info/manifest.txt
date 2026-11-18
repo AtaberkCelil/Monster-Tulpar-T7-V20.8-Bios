@@ -1,0 +1,6 @@
+ACPI: 25 tablo
+Microcode: 3 blok
+Modul: 450 adet PE32/TE/PIC
+Gorsel: 106 adet
+String: 19190 ASCII, 7927 UTF-16 (seri no/MAC/anahtar filtreli)
+Sürüm/BIOS string: 301
